@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\week 1\Day 3\HomeTask\HomeTask3\obj\Debug\net8.0\HomeTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\week 1\Day 3\HomeTask\HomeTask3\obj\Debug\net8.0\HomeTask3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\week 1\Day 3\HomeTask\HomeTask3\obj\Debug\net8.0\HomeTask3.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\week 1\Day 3\HomeTask\HomeTask3\obj\Debug\net8.0\HomeTask3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\week 1\Day 3\HomeTask\HomeTask3\bin\Debug\net8.0\HomeTask3.exe
+C:\Users\User\Desktop\C#\week 1\Day 3\HomeTask\HomeTask3\bin\Debug\net8.0\HomeTask3.deps.json
+C:\Users\User\Desktop\C#\week 1\Day 3\HomeTask\HomeTask3\bin\Debug\net8.0\HomeTask3.runtimeconfig.json
+C:\Users\User\Desktop\C#\week 1\Day 3\HomeTask\HomeTask3\bin\Debug\net8.0\HomeTask3.dll
+C:\Users\User\Desktop\C#\week 1\Day 3\HomeTask\HomeTask3\bin\Debug\net8.0\HomeTask3.pdb
+C:\Users\User\Desktop\C#\week 1\Day 3\HomeTask\HomeTask3\obj\Debug\net8.0\HomeTask3.dll
+C:\Users\User\Desktop\C#\week 1\Day 3\HomeTask\HomeTask3\obj\Debug\net8.0\refint\HomeTask3.dll
+C:\Users\User\Desktop\C#\week 1\Day 3\HomeTask\HomeTask3\obj\Debug\net8.0\HomeTask3.pdb
+C:\Users\User\Desktop\C#\week 1\Day 3\HomeTask\HomeTask3\obj\Debug\net8.0\HomeTask3.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\week 1\Day 3\HomeTask\HomeTask3\obj\Debug\net8.0\ref\HomeTask3.dll
